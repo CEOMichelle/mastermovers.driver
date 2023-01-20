@@ -76,7 +76,7 @@
         <!-- Don't delete the meta-data below.
              This is used by the Flutter tool to generate GeneratedPluginRegistrant.java -->
         <service
-            android:name="com.mastermovers.driver.BackgroundService"
+            android:name="com.sixamtech.sixam_mart_delivery.BackgroundService"
             android:enabled="true"
             android:exported="false" />
         <meta-data
