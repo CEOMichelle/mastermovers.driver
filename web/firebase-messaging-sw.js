@@ -7,7 +7,7 @@ firebase.initializeApp({
   projectId: "ammart-8885e",
   storageBucket: "ammart-8885e.appspot.com",
   messagingSenderId: "1000163153346",
-  appId: "1:1000163153346:web:4f702a4b5adbd5c906b25b"
+  appId: "1:1000163153346:web:4f702a4b5adbd5c906b25b",
   databaseURL: "...",
 });
 
